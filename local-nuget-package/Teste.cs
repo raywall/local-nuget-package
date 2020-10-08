@@ -7,3 +7,4 @@ namespace local_nuget_package
         public static int Dobro(int valor) => valor * 2;
     }
 }
+
