@@ -69,7 +69,7 @@ https://www.nuget.org/downloads
 nuget pack [caminho do arquivo nuspec]
 ```
 <br/>
-![command](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/command.jpg)
+![comando](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/command.jpg)
 
 4. Pronto! Seu package está pronto para ser adicionado ao repositorio!
 
