@@ -34,7 +34,7 @@ namespace local_nuget_package
 https://www.nuget.org/downloads
 
 2. Crie um arquvivo .nuspec e informe os dados do package que deseja criar<br/>
-![manager nuget package](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/nuspec.jpg)
+![nuspec](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/nuspec.jpg)
 <br/>
 
 ```
@@ -69,7 +69,7 @@ https://www.nuget.org/downloads
 nuget pack [caminho do arquivo nuspec]
 ```
 <br/>
-![manager nuget package](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/command.jpg)
+![command](https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/command.jpg)
 
 4. Pronto! Seu package está pronto para ser adicionado ao repositorio!
 
