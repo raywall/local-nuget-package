@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Raywall Malheiros</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/pack.jpg</projectUrl>
+    <iconUrl>https://github.com/raywall/local-nuget-package/blob/master/local-nuget-package/images/pack.jpg</iconUrl>
+    <description>Teste de geração de pacote</description>
+    <releaseNotes>Teste de criação de pacote</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>teste pacote framework nuget</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\raywa\Source\Repos\local-nuget-package\local-nuget-framework-package\bin\Debug\*.dll" />
+  </files>
+</package>
